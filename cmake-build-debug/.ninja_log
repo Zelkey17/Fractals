@@ -1,0 +1,5 @@
+# ninja log v5
+0	47	1685198447125430509	CMakeFiles/Fractals.dir/Complex.cpp.o	a44fdee80ebdb71e
+0	390	1685198447473431706	CMakeFiles/Fractals.dir/main.cpp.o	a577a1d8c7a231dd
+0	430	1685198447513431843	CMakeFiles/Fractals.dir/MainWindow.cpp.o	592b7b6b5809fe35
+430	491	1685198447573432050	Fractals	4552aecc3adef160

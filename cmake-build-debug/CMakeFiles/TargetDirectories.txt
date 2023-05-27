@@ -1,0 +1,3 @@
+/home/ash/Desktop/Studing/c++/Pracs/Fractals/cmake-build-debug/CMakeFiles/Fractals.dir
+/home/ash/Desktop/Studing/c++/Pracs/Fractals/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ash/Desktop/Studing/c++/Pracs/Fractals/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -10,17 +10,11 @@
 struct Complex {
     double a, b;
 
-    Complex operator+(Complex &s) const {
-        return {a + s.a, b + s.b};
-    }
+    Complex operator+(Complex &s) const;
 
-    Complex operator*(Complex &s) const {
-        return {a * s.a - b * s.b, a * s.b + b * s.a};
-    }
+    Complex operator*(Complex &s) const;
 
-    double len() const {
-        return a * a + b * b;
-    }
+    double len() const;
 
 };
 
